@@ -1,1 +1,1 @@
-# Ludo
+# Tic-tac-toe
